@@ -7,4 +7,4 @@ Analyzed the main purposes for which people booked Uber rides.
 
 Determined the time of day when most Uber rides were booked.
 
-Investigated the months when Uber rides were booked less and most frequentlyl.
+Investigated the months when Uber rides were booked less and most frequently.
